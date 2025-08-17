@@ -1,0 +1,10 @@
+{
+  "mode": "char",
+  "strict_pinyin": false,
+  "timer_seconds": 20,
+  "difficulty": "normal",
+  "allow_repeat_idiom": false,
+  "dictionary_path": "data/idioms.json",
+  "max_hints": 5,
+  "save_path": "data/user_state.json"
+}
